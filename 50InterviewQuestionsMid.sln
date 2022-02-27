@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsVsAs", "50InterviewQuestionsMid\IsVsAs.csproj", "{F21709E5-F002-49DE-885C-87C53EDF24CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsVsAs", "IsVsAs\IsVsAs.csproj", "{F21709E5-F002-49DE-885C-87C53EDF24CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{F8AE36D3-C5B1-4784-8DEC-077416A09BC9}"
 EndProject
